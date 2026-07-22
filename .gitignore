@@ -12,6 +12,9 @@ __pycache__/
 data/
 *.avi
 
+# Auto-downloaded model assets (fetched on first run; see src/face_roi.py)
+models/
+
 # OS / editor
 .DS_Store
 Thumbs.db
