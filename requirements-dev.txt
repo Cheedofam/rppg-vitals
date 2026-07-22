@@ -1,0 +1,4 @@
+# Development-only dependencies (NOT needed to run the live webcam dashboard).
+# Used to download the MCD-rPPG validation dataset from the Hugging Face Hub.
+# See validation/download_mcd.py.
+requests>=2.28

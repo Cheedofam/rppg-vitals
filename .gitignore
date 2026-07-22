@@ -8,6 +8,10 @@ __pycache__/
 *.egg-info/
 .pytest_cache/
 
+# Datasets (large, license-restricted — never commit; see README for acquisition)
+data/
+*.avi
+
 # OS / editor
 .DS_Store
 Thumbs.db
