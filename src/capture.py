@@ -13,7 +13,6 @@ Timestamps are seconds since the first frame:
 from __future__ import annotations
 
 import time
-from pathlib import Path
 
 import cv2
 import numpy as np
