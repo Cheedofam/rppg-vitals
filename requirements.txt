@@ -1,0 +1,9 @@
+# rppg-vitals dependencies (per RPPG_SPEC.md Section 3)
+# Python 3.10+ — 100% free/open-source, no GPU required.
+numpy<2            # pinned <2 for MediaPipe compatibility
+scipy              # scipy.signal: Butterworth bandpass, FFT
+opencv-python      # cv2.VideoCapture webcam capture
+mediapipe          # Face Mesh landmarks for ROI extraction
+streamlit          # live dashboard UI
+matplotlib         # waveform plotting
+pytest             # signal-processing unit tests
