@@ -12,6 +12,10 @@ ROI overlay, the pulse waveform, current HR/RR, and a signal-quality indicator.
 *Raw ROI green looks like noise (top); CHROM recovers a clear pulse (middle); the spectral
 peak gives the heart rate (bottom) — here 57 bpm vs a ~58 bpm contact-PPG reference.*
 
+> 📖 **New to this?** Read the **[Technical Deep Dive](TECHNICAL_DEEP_DIVE.md)** — a
+> plain-language walkthrough of the science, the pipeline, and how it was built, with every
+> term defined from scratch.
+
 ## Quick start
 
 Requires **Python 3.10+**. On Windows (PowerShell):
