@@ -127,6 +127,11 @@ moving chest wall and recovers breathing rate via I/Q demodulation and FFT — t
 next step from optical rPPG toward the kind of radar contactless health monitoring used in
 elderly-care research.
 
+A further direction — reading vitals from an **event/neuromorphic camera** — is sketched in
+**[docs/event_based_vitals_design.md](docs/event_based_vitals_design.md)**: why colour rPPG is
+sub-threshold on a DVS, the pivot to motion-based sensing, and a simulation-first validation
+path that reuses this project's signal-processing back-end.
+
 ## Acknowledgements
 
 - **CHROM** algorithm: G. de Haan & V. Jeanne, "Robust Pulse Rate From Chrominance-Based
