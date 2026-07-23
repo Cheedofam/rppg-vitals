@@ -34,6 +34,11 @@ The face-landmark model (~4 MB) is downloaded automatically on first run.
 No webcam? Run against a video file instead — choose **Video file** in the sidebar and
 point it at any face video (see [Dataset](#dataset-for-validation) to fetch sample clips).
 
+> 🎥 **Running it step by step, camera compatibility (note: event/neuromorphic cameras are
+> not supported — see why), and troubleshooting** are all in
+> **[RUNNING_THE_DASHBOARD.md](RUNNING_THE_DASHBOARD.md)**. A normal RGB webcam (built-in or
+> USB) is all you need.
+
 ## How it works
 
 ```
