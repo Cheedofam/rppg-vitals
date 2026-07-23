@@ -15,6 +15,9 @@ data/
 # Auto-downloaded model assets (fetched on first run; see src/face_roi.py)
 models/
 
+# Personal learning notes (kept local, not published)
+LEARNING_GUIDE.md
+
 # OS / editor
 .DS_Store
 Thumbs.db
